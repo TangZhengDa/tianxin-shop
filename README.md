@@ -1,4 +1,5 @@
-# 田心商城-shop
+# 田心商城
+Vue3 全家桶 + Vant 搭建大型单页面商城项目，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0 + axios。
 
 ## Project setup
 ```
